@@ -1,0 +1,25 @@
+Job_Role,Key_Skills
+Software Engineer,"Python,Java,JavaScript,SQL,Git,Agile,Problem Solving,Data Structures,Algorithms,OOP"
+Data Scientist,"Python,SQL,Machine Learning,Data Analysis,Pandas,NumPy,Statistics,Data Visualization,Scikit-learn"
+Web Developer,"HTML,CSS,JavaScript,React,Node.js,SQL,Git,Responsive Design,API Development"
+DevOps Engineer,"Linux,Docker,Kubernetes,AWS,CI/CD,Python,Bash,Monitoring,Infrastructure as Code"
+Machine Learning Engineer,"Python,Machine Learning,Deep Learning,TensorFlow,PyTorch,SQL,Data Science,Algorithms,Statistics"
+Backend Developer,"Python,Java,Node.js,SQL,API Development,Microservices,REST,Database Design,System Design"
+Frontend Developer,"HTML,CSS,JavaScript,React,Angular,Vue,TypeScript,Responsive Design,UI/UX"
+Full Stack Developer,"Python,JavaScript,React,Node.js,SQL,HTML,CSS,Git,API Development,Database Design"
+Data Engineer,"Python,SQL,Big Data,Hadoop,Spark,ETL,Data Pipeline,Cloud Computing,Database Design"
+Cloud Engineer,"AWS,Azure,GCP,Docker,Kubernetes,Terraform,Python,Linux,Networking,CI/CD"
+QA Engineer,"Testing,Automation,Selenium,Python,SQL,Test Planning,Bug Tracking,Agile,API Testing"
+Mobile Developer,"Android,iOS,React Native,Flutter,Java,Kotlin,Swift,API Integration,Mobile UI/UX"
+Cybersecurity Analyst,"Network Security,Penetration Testing,Python,Linux,SIEM,Incident Response,Compliance,Firewall,Vulnerability Assessment"
+Product Manager,"Product Strategy,Agile,Scrum,Data Analysis,Communication,Project Management,Market Research,User Research,Analytics"
+Business Analyst,"Data Analysis,SQL,Excel,Requirements Gathering,Documentation,Communication,Project Management,Business Process,Stakeholder Management"
+
+Software Engineer,Python;Java;OOP;SQL;Git;Data Structures;Algorithms;REST APIs
+Data Analyst,Python;SQL;Pandas;NumPy;Power BI;Excel;Tableau;Data Visualization
+Web Developer,HTML;CSS;JavaScript;React;Node.js;Express;MongoDB;REST APIs
+Data Scientist,Python;R;Machine Learning;Deep Learning;Scikit-learn;Statistics;TensorFlow;Pandas
+Machine Learning Engineer,Python;TensorFlow;PyTorch;NLP;Deep Learning;Computer Vision;Scikit-learn
+DevOps Engineer,Docker;Kubernetes;AWS;Azure;CI/CD;Linux;Jenkins;Terraform
+Cloud Engineer,AWS;Azure;Docker;Kubernetes;Linux;Networking;Security
+AI Engineer,Python;Transformers;PyTorch;Deep Learning;Natural Language Processing

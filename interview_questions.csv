@@ -1,0 +1,100 @@
+Job_Role,Question_Type,Question,Difficulty
+Software Engineer,Technical,What is the difference between compilation and interpretation?,Medium
+Software Engineer,Technical,Explain the concept of polymorphism in object-oriented programming.,Medium
+Software Engineer,Technical,Describe the difference between stack and heap memory.,Medium
+Software Engineer,Technical,What is the time complexity of binary search?,Easy
+Software Engineer,Technical,Explain the SOLID principles with examples.,Hard
+Software Engineer,Technical,What is the difference between REST and GraphQL?,Medium
+Software Engineer,Technical,How would you design a scalable system for handling millions of requests?,Hard
+Software Engineer,Technical,Explain the difference between SQL and NoSQL databases.,Medium
+Software Engineer,Technical,What is the purpose of a constructor in a class?,Easy
+Software Engineer,Technical,Describe how hash tables work and their time complexity.,Medium
+Software Engineer,Behavioral,Tell me about a time when you had to debug a complex issue. How did you approach it?,Medium
+Software Engineer,Behavioral,Describe a situation where you had to learn a new technology quickly.,Medium
+Software Engineer,Behavioral,How do you handle conflicting priorities when multiple projects need your attention?,Medium
+Software Engineer,Behavioral,Tell me about a time when you had to work with a difficult team member.,Medium
+Software Engineer,Behavioral,Describe a project where you had to meet a tight deadline. How did you manage it?,Medium
+Software Engineer,Scenario-based,You discover a critical bug in production. Walk me through your response process.,Hard
+Software Engineer,Scenario-based,How would you refactor legacy code that has no tests and is poorly documented?,Hard
+Software Engineer,Scenario-based,You need to optimize a slow database query. What steps would you take?,Medium
+Software Engineer,Scenario-based,How would you implement a caching strategy for a high-traffic web application?,Hard
+Data Scientist,Technical,Explain the difference between supervised and unsupervised learning.,Medium
+Data Scientist,Technical,What is the bias-variance tradeoff?,Hard
+Data Scientist,Technical,How do you handle missing values in a dataset?,Medium
+Data Scientist,Technical,Explain cross-validation and why it's important.,Medium
+Data Scientist,Technical,What is the difference between precision and recall?,Medium
+Data Scientist,Technical,Describe how gradient descent works.,Hard
+Data Scientist,Technical,Explain the concept of overfitting and how to prevent it.,Medium
+Data Scientist,Technical,What is the difference between L1 and L2 regularization?,Hard
+Data Scientist,Technical,How would you evaluate a classification model?,Medium
+Data Scientist,Technical,Explain the concept of feature engineering.,Medium
+Data Scientist,Behavioral,Tell me about a time when your analysis led to an important business decision.,Medium
+Data Scientist,Behavioral,Describe a project where you had to work with messy or incomplete data.,Medium
+Data Scientist,Behavioral,How do you communicate technical findings to non-technical stakeholders?,Medium
+Data Scientist,Behavioral,Tell me about a time when your model didn't perform as expected. What did you learn?,Medium
+Data Scientist,Behavioral,Describe how you prioritize which analyses to perform when time is limited.,Medium
+Data Scientist,Scenario-based,You're given a dataset with 1000 features and 100 samples. How do you approach this problem?,Hard
+Data Scientist,Scenario-based,"A stakeholder wants to use your model for real-time predictions, but it's too slow. What do you do?",Hard
+Data Scientist,Scenario-based,How would you detect and handle outliers in a dataset?,Medium
+Data Scientist,Scenario-based,You need to explain a complex machine learning model to a business audience. How do you do it?,Medium
+Data Scientist,Scenario-based,"How would you validate that your model will perform well on new, unseen data?",Medium
+Web Developer,Technical,"Explain the difference between let, const, and var in JavaScript.",Medium
+Web Developer,Technical,What is the Document Object Model (DOM)?,Easy
+Web Developer,Technical,Describe how CSS specificity works.,Medium
+Web Developer,Technical,What is the difference between GET and POST requests?,Easy
+Web Developer,Technical,Explain closures in JavaScript with an example.,Medium
+Web Developer,Technical,What is responsive design and how do you implement it?,Medium
+Web Developer,Technical,Describe the React component lifecycle.,Medium
+Web Developer,Technical,What is the purpose of state management in frontend applications?,Medium
+Web Developer,Technical,Explain CORS and how to handle it.,Medium
+Web Developer,Technical,"What are the differences between cookies, sessionStorage, and localStorage?",Medium
+Web Developer,Behavioral,Tell me about a challenging frontend bug you had to fix.,Medium
+Web Developer,Behavioral,Describe a time when you had to optimize website performance.,Medium
+Web Developer,Behavioral,How do you ensure your websites are accessible to all users?,Medium
+Web Developer,Behavioral,Tell me about a time when you had to work with a designer to implement a complex UI.,Medium
+Web Developer,Behavioral,Describe how you stay updated with the latest web technologies.,Medium
+Web Developer,Scenario-based,A user reports that your website looks broken on their mobile device. How do you debug this?,Medium
+Web Developer,Scenario-based,Your website is loading slowly. What steps would you take to improve performance?,Medium
+Web Developer,Scenario-based,How would you implement user authentication in a web application?,Hard
+Web Developer,Scenario-based,You need to integrate a third-party API that's unreliable. How do you handle this?,Medium
+Web Developer,Scenario-based,How would you implement a real-time chat feature on a website?,Hard
+DevOps Engineer,Technical,Explain the difference between containers and virtual machines.,Medium
+DevOps Engineer,Technical,What is Infrastructure as Code and what are its benefits?,Medium
+DevOps Engineer,Technical,Describe the CI/CD pipeline and its stages.,Medium
+DevOps Engineer,Technical,What is Kubernetes and why is it used?,Medium
+DevOps Engineer,Technical,Explain the concept of blue-green deployment.,Medium
+DevOps Engineer,Technical,What is Docker and how does it differ from traditional virtualization?,Medium
+DevOps Engineer,Technical,Describe how you would monitor a production system.,Medium
+DevOps Engineer,Technical,What is the difference between horizontal and vertical scaling?,Medium
+DevOps Engineer,Technical,Explain load balancing and its importance.,Medium
+DevOps Engineer,Technical,What are the key principles of DevOps?,Medium
+DevOps Engineer,Behavioral,Tell me about a time when you had to handle a production incident.,Medium
+DevOps Engineer,Behavioral,Describe a situation where you improved deployment processes.,Medium
+DevOps Engineer,Behavioral,How do you balance speed and stability in deployments?,Medium
+DevOps Engineer,Behavioral,Tell me about a time when you automated a manual process.,Medium
+DevOps Engineer,Behavioral,Describe how you collaborate with development teams.,Medium
+DevOps Engineer,Scenario-based,A production server goes down in the middle of the night. Walk me through your response.,Hard
+DevOps Engineer,Scenario-based,You need to deploy a critical update with zero downtime. How do you do it?,Hard
+DevOps Engineer,Scenario-based,How would you set up monitoring and alerting for a microservices architecture?,Hard
+DevOps Engineer,Scenario-based,Your application is experiencing performance issues. How do you diagnose the problem?,Medium
+DevOps Engineer,Scenario-based,How would you implement disaster recovery for a cloud-based system?,Hard
+Machine Learning Engineer,Technical,Explain the difference between machine learning and deep learning.,Medium
+Machine Learning Engineer,Technical,What is backpropagation and how does it work?,Hard
+Machine Learning Engineer,Technical,Describe different types of neural network architectures.,Hard
+Machine Learning Engineer,Technical,What is transfer learning and when would you use it?,Medium
+Machine Learning Engineer,Technical,Explain the concept of attention mechanisms in neural networks.,Hard
+Machine Learning Engineer,Technical,How do you handle imbalanced datasets in machine learning?,Medium
+Machine Learning Engineer,Technical,"What is the difference between batch, mini-batch, and stochastic gradient descent?",Hard
+Machine Learning Engineer,Technical,Explain the concept of dropout in neural networks.,Medium
+Machine Learning Engineer,Technical,Describe how you would deploy a machine learning model to production.,Hard
+Machine Learning Engineer,Technical,What is feature scaling and why is it important?,Medium
+Machine Learning Engineer,Behavioral,Tell me about a machine learning project you're particularly proud of.,Medium
+Machine Learning Engineer,Behavioral,Describe a time when you had to explain a complex ML concept to a non-technical person.,Medium
+Machine Learning Engineer,Behavioral,How do you stay current with the latest developments in ML?,Medium
+Machine Learning Engineer,Behavioral,Tell me about a time when a model you built didn't work as expected.,Medium
+Machine Learning Engineer,Behavioral,Describe how you collaborate with data scientists and software engineers.,Medium
+Machine Learning Engineer,Scenario-based,You have limited labeled data for training. How would you approach this problem?,Hard
+Machine Learning Engineer,Scenario-based,Your model performs well on training data but poorly on test data. What's wrong?,Medium
+Machine Learning Engineer,Scenario-based,How would you optimize a model for both accuracy and inference speed?,Hard
+Machine Learning Engineer,Scenario-based,You need to train a model on a very large dataset. How do you approach this?,Hard
+Machine Learning Engineer,Scenario-based,How would you handle model versioning and deployment in production?,Hard
